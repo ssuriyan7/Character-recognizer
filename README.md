@@ -1,13 +1,11 @@
 # Optical-Character-Recogonizer
-To develop a system that can recognize handwritten characters from an image.
+A system that can recognize characters from an image.
 
 ![](ocr1.png)  
 
 # OCR is a process of converting images of typed, handwritten or printed text into machine-editable text.
 
-It is a common method of digitizing the handwritten characters and printed text in an image.A digit can be written in number of ways differing in shape and properties, such as tilt, stroke, cursivity and overall shape.Humans can easily recognize and read each digit. This is because the human perception processes the information by the features that define a digit’s shape in an overall fashion. Thus, while modelling the human perception model in machines an ANN can be applied for classification of characters.
-
-*Artificial Neural Networks(ANN)is one of the best ways to build an OCR.
+It is a common method of digitizing the handwritten characters and printed text in an image. A digit can be written in a number of ways differing in shape and properties, such as tilt, stroke, cursivity and overall shape. One can easily recognize and read each digit. This is because the human perception processes the information by the features that define a digit’s shape in an overall fashion. Thus, while modelling the human perception model in machines an Artificial neural network( ANN) can be applied for classification of characters.
 
 Artificial neural networks (ANNs)  are computing systems inspired by the biological neural networks that constitute human brains. Such systems "learn" (i.e. progressively improve performance on) tasks by considering examples.
 
